@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=NetBeans IDE Build 201804200002
+Comment=The Smarter Way to Code
+Exec=/bin/sh "/home/gmilczuk/netbeans-dev-201804200002/bin/netbeans"
+Icon=/home/gmilczuk/netbeans-dev-201804200002/nb/netbeans.png
+Categories=Application;Development;Java;IDE
+Version=1.0
+Type=Application
+Terminal=0
+
